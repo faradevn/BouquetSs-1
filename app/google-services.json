@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055008504980",
+    "project_id": "newbblgn24",
+    "storage_bucket": "newbblgn24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055008504980:android:7015d37fa888c8ef564881",
+        "android_client_info": {
+          "package_name": "com.example.newbb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055008504980-0cr6grfpddu3q3iarhq01epob7sdvl65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newbb",
+            "certificate_hash": "2450d62f81e5d2c0679028766c6738a2c67aa860"
+          }
+        },
+        {
+          "client_id": "1055008504980-5o0e41lvbl61sqe86lnig56tjc8fkufg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk44dnm30398V7-mSOs6K3koDaHcb3KgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055008504980-5o0e41lvbl61sqe86lnig56tjc8fkufg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
